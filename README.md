@@ -93,7 +93,7 @@ All random data and starting points are generated with fixed seeds. The scripts 
 
 ### Running times
 
-On the machine used for the paper, the longest scripts took about: `19` and `21` together, 9–11 h; `29`, several hours; `30`, 3–4 h; `09` and `28`, about 2 h each; `26`, about 1 h. The others take from a few seconds to about 40 minutes.
+The experiments were run on a laptop with an AMD Ryzen 5 5500U processor, 16 GB of memory and Windows, with Julia 1.13.1 on a single thread. On this machine, the longest scripts took about: `19` and `21` together, 9–11 h; `29`, several hours; `30`, 3–4 h; `09` and `28`, about 2 h each; `26`, about 1 h. The others take from a few seconds to about 40 minutes.
 
 ## License
 

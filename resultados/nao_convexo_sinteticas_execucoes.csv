@@ -1,0 +1,21 @@
+instancia,variante,execucao,status,iter,avalF,grad_equiv,duplicacoes,duplicacoes_p5,tempo
+"sintetica, c = 0.0","blocos, 1ª ordem",1,convergiu,280143,420346,30734.499999706804,140202,0,129.81100010871887
+"sintetica, c = 0.0","blocos, 1ª ordem",2,convergiu,198042,297184,31254.199999692086,99141,0,81.18499994277954
+"sintetica, c = 0.0","blocos, 1ª ordem",3,convergiu,173225,259972,26368.79999977255,86746,0,75.58599996566772
+"sintetica, c = 0.0","blocos, 1ª ordem",4,convergiu,115585,173500,13908.599999941127,57914,0,49.11800003051758
+"sintetica, c = 0.0","blocos, 1ª ordem",5,convergiu,108778,163275,12289.79999996276,54496,0,45.480000019073486
+"sintetica, c = 0.0","blocos, 2ª ordem",1,convergiu,134490,201818,18113.39999989228,67367,40,544.9400000572205
+"sintetica, c = 0.0","blocos, 2ª ordem",2,convergiu,135631,203531,12612.799999958295,67935,36,176.23600006103516
+"sintetica, c = 0.0","blocos, 2ª ordem",3,convergiu,112222,168425,11556.799999976343,56239,37,224.2739999294281
+"sintetica, c = 0.0","blocos, 2ª ordem",4,convergiu,109662,164567,10921.099999982684,54940,36,149.45199990272522
+"sintetica, c = 0.0","blocos, 2ª ordem",5,convergiu,108344,162594,9848.799999998917,54287,38,161.93299984931946
+"sintetica, c = 0.0",só bloco 0,1,convergiu,20647,30980,20648.0,10332,0,43.53499984741211
+"sintetica, c = 0.0",só bloco 0,2,convergiu,62348,93531,62349.0,31182,0,132.7960000038147
+"sintetica, c = 0.0",só bloco 0,3,convergiu,10052,15087,10053.0,5034,0,21.055000066757202
+"sintetica, c = 0.0",só bloco 0,4,convergiu,18313,27477,18314.0,9163,0,38.75099992752075
+"sintetica, c = 0.0",só bloco 0,5,convergiu,19861,29800,19862.0,9938,0,41.71000003814697
+"sintetica, c = 0.0",Fliege–Svaiter BB,1,convergiu,33182,33184,33183.0,1,0,37.94799995422363
+"sintetica, c = 0.0",Fliege–Svaiter BB,2,convergiu,31011,31249,31012.0,237,0,35.79900002479553
+"sintetica, c = 0.0",Fliege–Svaiter BB,3,convergiu,13565,13571,13566.0,5,0,15.598000049591064
+"sintetica, c = 0.0",Fliege–Svaiter BB,4,convergiu,27999,28001,28000.0,1,0,32.48900008201599
+"sintetica, c = 0.0",Fliege–Svaiter BB,5,convergiu,14649,14652,14650.0,2,0,16.85099983215332
